@@ -12,5 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/EricTran6/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0782-jewels-and-stones](https://github.com/EricTran6/LeetCode/tree/master/0782-jewels-and-stones) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/EricTran6/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/EricTran6/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
