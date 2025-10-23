@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/EricTran6/LeetCode/tree/master/0036-valid-sudoku) |
+| [0242-valid-anagram](https://github.com/EricTran6/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/EricTran6/LeetCode/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/EricTran6/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/EricTran6/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/EricTran6/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Array
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/EricTran6/LeetCode/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/EricTran6/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
