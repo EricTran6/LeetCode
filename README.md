@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/EricTran6/LeetCode/tree/master/0036-valid-sudoku) |
 | [0782-jewels-and-stones](https://github.com/EricTran6/LeetCode/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
@@ -18,8 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/EricTran6/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/EricTran6/LeetCode/tree/master/0036-valid-sudoku) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/EricTran6/LeetCode/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/EricTran6/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
