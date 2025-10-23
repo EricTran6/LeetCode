@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/EricTran6/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/EricTran6/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/EricTran6/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0792-binary-search](https://github.com/EricTran6/LeetCode/tree/master/0792-binary-search) |
 ## Trie
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/EricTran6/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/EricTran6/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
