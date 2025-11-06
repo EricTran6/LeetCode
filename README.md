@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/EricTran6/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/EricTran6/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/EricTran6/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/EricTran6/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/EricTran6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0782-jewels-and-stones](https://github.com/EricTran6/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/EricTran6/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/EricTran6/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/EricTran6/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/EricTran6/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/EricTran6/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/EricTran6/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/EricTran6/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/EricTran6/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/EricTran6/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
