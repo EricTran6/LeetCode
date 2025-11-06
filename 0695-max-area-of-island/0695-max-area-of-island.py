@@ -7,13 +7,11 @@ class Solution:
             if r < 0 or r >= rows or c < 0 or c >= cols or grid[r][c] == 0:
                 return 0
             else:
-                area = 1
                 grid[r][c] = 0
-                area += dfs(r + 1, c)
-                area += dfs(r - 1, c)
-                area += dfs(r, c + 1)
-                area += dfs(r, c - 1)
-                return area
+                return (1 + dfs(r + 1, c) +
+                            dfs(r - 1, c) +
+                            dfs(r, c + 1) +
+                            dfs(r, c - 1))
 
 
         for r in range(rows):
