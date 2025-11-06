@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/EricTran6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/EricTran6/LeetCode/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/EricTran6/LeetCode/tree/master/0792-binary-search) |
+| [1036-rotting-oranges](https://github.com/EricTran6/LeetCode/tree/master/1036-rotting-oranges) |
 | [1603-running-sum-of-1d-array](https://github.com/EricTran6/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Trie
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/EricTran6/LeetCode/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/EricTran6/LeetCode/tree/master/0286-walls-and-gates) |
 | [0695-max-area-of-island](https://github.com/EricTran6/LeetCode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/EricTran6/LeetCode/tree/master/1036-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/EricTran6/LeetCode/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/EricTran6/LeetCode/tree/master/0286-walls-and-gates) |
 | [0695-max-area-of-island](https://github.com/EricTran6/LeetCode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/EricTran6/LeetCode/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
