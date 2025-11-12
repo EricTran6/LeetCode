@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/EricTran6/LeetCode/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/EricTran6/LeetCode/tree/master/0271-encode-and-decode-strings) |
 ## Prefix Sum
 |  |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/EricTran6/LeetCode/tree/master/0133-clone-graph) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/EricTran6/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
