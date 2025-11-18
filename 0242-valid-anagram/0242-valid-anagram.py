@@ -4,10 +4,9 @@ class Solution:
             return False
         arrS = {}
         arrT = {}
-        for ch in range(len(s)):
-            arrS[s[ch]] = arrS.get(s[ch], 0) + 1
-            arrT[t[ch]] = arrT.get(t[ch], 0) + 1
+        for i in range(len(s)):
+            arrS[s[i]] = arrS.get(s[i], 0) += 1
+            arrT[t[i]] = arrT.get(t[i], 0) += 1
         if arrS != arrT:
             return False
         return True
-            
