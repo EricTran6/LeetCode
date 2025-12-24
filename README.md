@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/EricTran6/LeetCode/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/EricTran6/LeetCode/tree/master/1036-rotting-oranges) |
 | [1603-running-sum-of-1d-array](https://github.com/EricTran6/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/EricTran6/LeetCode/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 ## Trie
 |  |
 | ------- |
