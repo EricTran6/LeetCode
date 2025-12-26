@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/EricTran6/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/EricTran6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0782-jewels-and-stones](https://github.com/EricTran6/LeetCode/tree/master/0782-jewels-and-stones) |
+| [2043-simple-bank-system](https://github.com/EricTran6/LeetCode/tree/master/2043-simple-bank-system) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/EricTran6/LeetCode/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/EricTran6/LeetCode/tree/master/1036-rotting-oranges) |
 | [1603-running-sum-of-1d-array](https://github.com/EricTran6/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2043-simple-bank-system](https://github.com/EricTran6/LeetCode/tree/master/2043-simple-bank-system) |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/EricTran6/LeetCode/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 ## Trie
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2043-simple-bank-system](https://github.com/EricTran6/LeetCode/tree/master/2043-simple-bank-system) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/EricTran6/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/EricTran6/LeetCode/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/EricTran6/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [2043-simple-bank-system](https://github.com/EricTran6/LeetCode/tree/master/2043-simple-bank-system) |
 ## Prefix Sum
 |  |
 | ------- |
