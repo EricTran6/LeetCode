@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/EricTran6/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/EricTran6/LeetCode/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/EricTran6/LeetCode/tree/master/0412-fizz-buzz) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/EricTran6/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/EricTran6/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/EricTran6/LeetCode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/EricTran6/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0412-fizz-buzz](https://github.com/EricTran6/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/EricTran6/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/EricTran6/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/EricTran6/LeetCode/tree/master/0412-fizz-buzz) |
 | [2043-simple-bank-system](https://github.com/EricTran6/LeetCode/tree/master/2043-simple-bank-system) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/EricTran6/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
