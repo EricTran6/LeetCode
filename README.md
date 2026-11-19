@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/EricTran6/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/EricTran6/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/EricTran6/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/EricTran6/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/EricTran6/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/EricTran6/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2043-simple-bank-system](https://github.com/EricTran6/LeetCode/tree/master/2043-simple-bank-system) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/EricTran6/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0286-walls-and-gates](https://github.com/EricTran6/LeetCode/tree/master/0286-walls-and-gates) |
 | [0347-top-k-frequent-elements](https://github.com/EricTran6/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/EricTran6/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0695-max-area-of-island](https://github.com/EricTran6/LeetCode/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/EricTran6/LeetCode/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/EricTran6/LeetCode/tree/master/1036-rotting-oranges) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/EricTran6/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/EricTran6/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/EricTran6/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/EricTran6/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/EricTran6/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-binary-search](https://github.com/EricTran6/LeetCode/tree/master/0792-binary-search) |
 ## Design
 |  |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EricTran6/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/EricTran6/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/EricTran6/LeetCode/tree/master/0125-valid-palindrome) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/EricTran6/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
