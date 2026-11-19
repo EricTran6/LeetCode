@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/EricTran6/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/EricTran6/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0782-jewels-and-stones](https://github.com/EricTran6/LeetCode/tree/master/0782-jewels-and-stones) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/EricTran6/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2043-simple-bank-system](https://github.com/EricTran6/LeetCode/tree/master/2043-simple-bank-system) |
 ## String
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/EricTran6/LeetCode/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/EricTran6/LeetCode/tree/master/1036-rotting-oranges) |
 | [1603-running-sum-of-1d-array](https://github.com/EricTran6/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/EricTran6/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2043-simple-bank-system](https://github.com/EricTran6/LeetCode/tree/master/2043-simple-bank-system) |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/EricTran6/LeetCode/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 ## Trie
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/EricTran6/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/EricTran6/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Quickselect
 |  |
 | ------- |
